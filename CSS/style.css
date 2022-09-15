@@ -1,0 +1,56 @@
+body{
+    margin: 0;
+    padding: 0;
+    /* text-align: center; */
+    background-color: #a5b5cf;
+    color: #fff ;
+}
+
+
+.title{
+    display: flex;
+    text-align: center;
+    margin: 3% 5% 5% 3%;
+}
+
+button{
+    border-radius: 50px;
+    width: 50%;
+}
+
+.title-description{
+    width: 50%;
+}
+
+.about-us.features{
+    margin-right: 30%;
+    text-align: center;
+}
+
+ol{
+    list-style-type: none;
+}
+
+.text-info{
+    color: #fff;
+}
+
+#login .container #login-row #login-column #login-box {
+    margin-top: 120px;
+    max-width: 600px;
+    height: 320px;
+    border: 1px solid #9C9C9C;
+    background-color: #EAEAEA;
+  }
+  #login .container #login-row #login-column #login-box #login-form {
+    padding: 20px;
+  }
+  #login .container #login-row #login-column #login-box #login-form #register-link {
+    margin-top: -85px;
+  }
+
+
+  .white-section{
+    background-color: #fff;
+    padding: 7% 15%;
+  }
